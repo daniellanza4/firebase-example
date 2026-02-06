@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Prueba112111097
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.1.0.
@@ -57,3 +58,7 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+=======
+# firebase-example
+TECNOLOGÍAS EMERGENTES 
+>>>>>>> 3862d07e617e2f505530f1cb4da3331635b20956
